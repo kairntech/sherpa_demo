@@ -10,4 +10,4 @@ visualize(default_text,
           project_selector_title="Select demo",
           annotator_selector_title="Select variant",
           sidebar_title="KAIRNTECH Sherpa",
-          sidebar_description="Customizable Sherpa demonstration")
+          sidebar_description="Demonstation page")
