@@ -6,6 +6,7 @@ With two lines.
 """
 visualize(default_text,
           projects=["attacks_gp", "consolide"],
+          annotator_types=["plan"],
           favorite_only=False,
           show_connection=False,
           project_selector_title="Select demo",
