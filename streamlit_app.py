@@ -5,7 +5,7 @@ default_text = """This is a sample text.
 With two lines.
 """
 visualize(default_text,
-          projects=["attacks_gp", "consolide"],
+          # projects=["attacks_gp", "consolide"],
           annotator_types=["plan"],
           favorite_only=False,
           show_connection=False,
