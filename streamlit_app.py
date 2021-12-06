@@ -10,6 +10,6 @@ visualize(default_text,
           favorite_only=False,
           show_connection=False,
           project_selector_title="Select demo",
-          annotator_selector_title="Select variant",
+          annotator_selector_title="Select pipeline",
           sidebar_title="KAIRNTECH Sherpa",
           sidebar_description="Demonstation page")
