@@ -1,2 +1,2 @@
-sherpa-streamlit==0.2.9
+sherpa-streamlit==0.1.16
 streamlit~=1.2.0
